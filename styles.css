@@ -1,18 +1,18 @@
 /*  your css code here. If applicable */
-.table-1{
+#table-1{
 	width:100%;
 	border:1px solid black;
 	border-collapse: collapse;
 }
-.table-2{
+#table-2{
 	width:100%;
 	height:120px;
 }
-.table-3{
+#table-3{
 	width:100%;
 	height:100px;
 }
-.t-image>td{
+#t-image>td{
 	text-align:center;
 }
 tr>td:nth-child(3){
